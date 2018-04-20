@@ -1,0 +1,54 @@
+Average error per epoch when leaving person 0 out:
+[ 1.57904784  1.57355717]
+Average error per epoch when leaving person 1 out:
+[ 1.00620583  0.89139032]
+Average error per epoch when leaving person 2 out:
+[ 0.4747766  0.3389738]
+Average error per epoch when leaving person 3 out:
+[ 1.43051962  1.4148287 ]
+Average error per epoch when leaving person 4 out:
+[ 1.48381262  1.34806098]
+Average error per epoch when leaving person 5 out:
+[ 1.96202608  1.38940309]
+Average error per epoch when leaving person 6 out:
+[ 1.17615095  1.16100156]
+Average error per epoch when leaving person 7 out:
+[ 2.52998271  2.35215648]
+Average error per epoch when leaving person 8 out:
+[ 0.53698195  0.63904508]
+Average error per epoch when leaving person 9 out:
+[ 1.8939776  1.8312943]
+Average error per epoch when leaving person 10 out:
+[ 0.88622872  0.7024997 ]
+Average error per epoch when leaving person 11 out:
+[ 1.41458583  1.36499673]
+Average error per epoch when leaving person 12 out:
+[ 1.37696228  1.12100593]
+Average error per epoch when leaving person 13 out:
+[ 0.49838851  0.42978914]
+Average error per epoch when leaving person 14 out:
+[ 0.42909047  0.44009723]
+Average error per epoch when leaving person 15 out:
+[ 0.34423042  0.31949358]
+Average error per epoch when leaving person 16 out:
+[ 0.41394944  0.41101544]
+Average error per epoch when leaving person 17 out:
+[ 1.52197993  1.51560528]
+Average error per epoch when leaving person 18 out:
+[ 1.01653314  0.50118083]
+Average error per epoch when leaving person 19 out:
+[ 1.24707017  1.16295308]
+Average error per epoch when leaving person 20 out:
+[ 1.78450157  1.42980527]
+Average error per epoch when leaving person 21 out:
+[ 1.69370434  1.65833216]
+Average error per epoch when leaving person 22 out:
+[ 1.23836317  1.02182759]
+Average error per epoch when leaving person 23 out:
+[ 2.36857963  2.31189866]
+Average error per epoch when leaving person 24 out:
+[ 1.6003843   1.52577742]
+Average error per epoch when leaving person 25 out:
+[ 0.67206947  0.62532389]
+Mean per epoch of all folds:
+[ 1.25308089  1.13389667]
