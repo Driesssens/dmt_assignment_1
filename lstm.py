@@ -210,7 +210,11 @@ def full_experiment():
 
             for i in range(len(test_real_moods)):
                 if test_real_moods[i] == True:
-                    test_errors.append(abs(scaled_out[i] - expected_outputs[i]))
+                    MEAN_SQUARED_ERROR = True
+                    if (MEAN_SQUARED_ERROR):
+                        test_errors.append((scaled_out[i] - expected_outputs[i]) ** 2)
+                    else:
+                        test_errors.append(abs(scaled_out[i] - expected_outputs[i]))
 
             avg = sum(test_errors) / len(test_errors)
             error_per_epoch.append(avg)
